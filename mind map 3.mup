@@ -1,0 +1,473 @@
+{
+  "formatVersion": 3,
+  "id": "root",
+  "ideas": {
+    "1": {
+      "title": "Sklep internetowy",
+      "id": 1,
+      "attr": {
+        "position": [
+          -85,
+          -20,
+          1
+        ]
+      },
+      "ideas": {
+        "1": {
+          "title": "Widoki",
+          "id": "2.f2bb.ba1ee19c6-d2d5.76d2cfad3",
+          "ideas": {
+            "1": {
+              "title": "Strona główna",
+              "id": "3.f2bb.ba1ee19c6-d2d5.76d2cfad3"
+            },
+            "2": {
+              "title": "Listing produktów",
+              "id": "4.f2bb.ba1ee19c6-d2d5.76d2cfad3"
+            },
+            "3": {
+              "title": "Szczegółów produktu",
+              "id": "5.f2bb.ba1ee19c6-d2d5.76d2cfad3"
+            },
+            "4": {
+              "title": "Wyniki wyszukiwania",
+              "id": "6.f2bb.ba1ee19c6-d2d5.76d2cfad3"
+            },
+            "5": {
+              "title": "Koszyk",
+              "id": "8.f2bb.ba1ee19c6-d2d5.76d2cfad3"
+            },
+            "6": {
+              "title": "Potwierdzenie zamówienia",
+              "id": "9.f2bb.ba1ee19c6-d2d5.76d2cfad3"
+            },
+            "7": {
+              "title": "Potwierdzenie zmiany hasła",
+              "id": "24.f2bb.ba1ee19c6-d2d5.76d2cfad3"
+            },
+            "8": {
+              "title": "Wprowadź email w celu wysłania hasła",
+              "id": "25.f2bb.ba1ee19c6-d2d5.76d2cfad3"
+            }
+          }
+        },
+        "2": {
+          "title": "Uwierzytelnianie",
+          "id": "16.f2bb.ba1ee19c6-d2d5.76d2cfad3",
+          "ideas": {
+            "1": {
+              "title": "Logowanie",
+              "id": "18.f2bb.ba1ee19c6-d2d5.76d2cfad3"
+            },
+            "2": {
+              "title": "Wylogowywanie",
+              "id": "19.f2bb.ba1ee19c6-d2d5.76d2cfad3"
+            },
+            "3": {
+              "title": "Reset hasła",
+              "id": "20.f2bb.ba1ee19c6-d2d5.76d2cfad3",
+              "ideas": {
+                "1": {
+                  "title": "Wysyłanie maila",
+                  "id": "22.f2bb.ba1ee19c6-d2d5.76d2cfad3"
+                },
+                "2": {
+                  "title": "Resetowanie hasła za pomocą linku",
+                  "id": "23.f2bb.ba1ee19c6-d2d5.76d2cfad3"
+                }
+              }
+            },
+            "4": {
+              "title": "Blokowanie",
+              "id": "21.f2bb.ba1ee19c6-d2d5.76d2cfad3"
+            }
+          }
+        },
+        "3": {
+          "title": "Integracje",
+          "id": "29.f2bb.ba1ee19c6-d2d5.76d2cfad3",
+          "ideas": {
+            "1": {
+              "title": "SendGrid",
+              "id": "35.f2bb.ba1ee19c6-d2d5.76d2cfad3"
+            }
+          }
+        },
+        "4": {
+          "title": "Dostawy",
+          "id": "31.f2bb.ba1ee19c6-d2d5.76d2cfad3",
+          "ideas": {
+            "1": {
+              "title": "Integracja z DHL",
+              "id": "32.f2bb.ba1ee19c6-d2d5.76d2cfad3"
+            },
+            "2": {
+              "title": "Integracja z magazynem",
+              "id": "33.f2bb.ba1ee19c6-d2d5.76d2cfad3",
+              "attr": {},
+              "ideas": {
+                "1": {
+                  "title": "Wysyłanie zamówienia",
+                  "id": "36.f2bb.ba1ee19c6-d2d5.76d2cfad3"
+                },
+                "2": {
+                  "title": "otrzymanie potwierdzenia o wysyłce",
+                  "id": "37.f2bb.ba1ee19c6-d2d5.76d2cfad3"
+                },
+                "3": {
+                  "title": "Informacje o stanie magazynowym",
+                  "id": "38.f2bb.ba1ee19c6-d2d5.76d2cfad3"
+                },
+                "4": {
+                  "title": "Przyjęcia towarów",
+                  "id": "39.f2bb.ba1ee19c6-d2d5.76d2cfad3"
+                }
+              }
+            },
+            "3": {
+              "title": "Integracja z systemem magazynowym",
+              "id": "34.f2bb.ba1ee19c6-d2d5.76d2cfad3",
+              "attr": {}
+            }
+          }
+        },
+        "-1": {
+          "title": "Funkcjonalnych",
+          "id": "10.f2bb.ba1ee19c6-d2d5.76d2cfad3",
+          "ideas": {
+            "1": {
+              "title": "Wyszukiwarka",
+              "id": "11.f2bb.ba1ee19c6-d2d5.76d2cfad3",
+              "ideas": {
+                "1": {
+                  "title": "Wyszukiwanie",
+                  "id": "12.f2bb.ba1ee19c6-d2d5.76d2cfad3"
+                },
+                "2": {
+                  "title": "Filtrowanie",
+                  "id": "13.f2bb.ba1ee19c6-d2d5.76d2cfad3",
+                  "ideas": {
+                    "1": {
+                      "title": "Po cenie",
+                      "id": "14.f2bb.ba1ee19c6-d2d5.76d2cfad3"
+                    },
+                    "2": {
+                      "title": "Po atrubytach",
+                      "id": "15.f2bb.ba1ee19c6-d2d5.76d2cfad3"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "-2": {
+          "title": "Panel Administarcyjny",
+          "id": "26.f2bb.ba1ee19c6-d2d5.76d2cfad3",
+          "ideas": {
+            "1": {
+              "title": "Uprawnienia",
+              "id": "27.f2bb.ba1ee19c6-d2d5.76d2cfad3"
+            },
+            "2": {
+              "title": "Zamówienia",
+              "id": "28.f2bb.ba1ee19c6-d2d5.76d2cfad3"
+            },
+            "3": {
+              "title": "Widoki",
+              "id": "41.f2bb.ba1ee19c6-d2d5.76d2cfad3"
+            }
+          }
+        },
+        "-3": {
+          "title": "Płatności",
+          "id": "30.f2bb.ba1ee19c6-d2d5.76d2cfad3"
+        }
+      }
+    }
+  },
+  "title": "Sklep internetowy",
+  "theme": {
+    "name": "MindMup Default",
+    "node": [
+      {
+        "name": "default",
+        "cornerRadius": 10,
+        "backgroundColor": "#E0E0E0",
+        "border": {
+          "type": "surround",
+          "line": {
+            "color": "#707070",
+            "width": 1,
+            "style": "solid"
+          }
+        },
+        "shadow": [
+          {
+            "color": "#070707",
+            "opacity": 0.4,
+            "offset": {
+              "width": 2,
+              "height": 2
+            },
+            "radius": 2
+          }
+        ],
+        "text": {
+          "margin": 5,
+          "alignment": "center",
+          "maxWidth": 146,
+          "color": "#4F4F4F",
+          "lightColor": "#EEEEEE",
+          "darkColor": "#000000",
+          "font": {
+            "lineSpacing": 4.5,
+            "lineSpacingPx": 6,
+            "size": 9,
+            "sizePx": 12,
+            "weight": "bold"
+          }
+        },
+        "connections": {
+          "default": {
+            "h": "center",
+            "v": "center"
+          },
+          "from": {
+            "horizontal": {
+              "h": "nearest-inset",
+              "v": "center"
+            }
+          },
+          "to": {
+            "h": "nearest",
+            "v": "center"
+          }
+        },
+        "decorations": {
+          "height": 20,
+          "edge": "top",
+          "overlap": true,
+          "position": "end",
+          "margin": 2,
+          "label": {
+            "border": 1,
+            "cornerRadius": 11,
+            "margin": 2,
+            "font": {
+              "lineSpacing": 0,
+              "lineSpacingPx": 0,
+              "size": 9,
+              "sizePx": 12,
+              "weight": "bold"
+            }
+          },
+          "cornerRadius": 12,
+          "backgroundColor": "#22aae0",
+          "opacity": 0.8,
+          "color": "#ffffff"
+        }
+      },
+      {
+        "name": "level_1",
+        "backgroundColor": "#22AAE0"
+      },
+      {
+        "name": "activated",
+        "border": {
+          "type": "surround",
+          "line": {
+            "color": "#22AAE0",
+            "width": 3,
+            "style": "dotted"
+          }
+        }
+      },
+      {
+        "name": "level_1.activated",
+        "border": {
+          "type": "surround",
+          "line": {
+            "color": "#EEEEEE",
+            "width": 3,
+            "style": "dotted"
+          }
+        }
+      },
+      {
+        "name": "selected",
+        "shadow": [
+          {
+            "color": "#000000",
+            "opacity": 0.9,
+            "offset": {
+              "width": 2,
+              "height": 2
+            },
+            "radius": 2
+          }
+        ]
+      },
+      {
+        "name": "collapsed",
+        "shadow": [
+          {
+            "color": "#888888",
+            "offset": {
+              "width": 0,
+              "height": 1
+            },
+            "radius": 0
+          },
+          {
+            "color": "#FFFFFF",
+            "offset": {
+              "width": 0,
+              "height": 3
+            },
+            "radius": 0
+          },
+          {
+            "color": "#888888",
+            "offset": {
+              "width": 0,
+              "height": 4
+            },
+            "radius": 0
+          },
+          {
+            "color": "#FFFFFF",
+            "offset": {
+              "width": 0,
+              "height": 6
+            },
+            "radius": 0
+          },
+          {
+            "color": "#888888",
+            "offset": {
+              "width": 0,
+              "height": 7
+            },
+            "radius": 0
+          }
+        ]
+      },
+      {
+        "name": "collapsed.selected",
+        "shadow": [
+          {
+            "color": "#FFFFFF",
+            "offset": {
+              "width": 0,
+              "height": 1
+            },
+            "radius": 0
+          },
+          {
+            "color": "#888888",
+            "offset": {
+              "width": 0,
+              "height": 3
+            },
+            "radius": 0
+          },
+          {
+            "color": "#FFFFFF",
+            "offset": {
+              "width": 0,
+              "height": 6
+            },
+            "radius": 0
+          },
+          {
+            "color": "#555555",
+            "offset": {
+              "width": 0,
+              "height": 7
+            },
+            "radius": 0
+          },
+          {
+            "color": "#FFFFFF",
+            "offset": {
+              "width": 0,
+              "height": 10
+            },
+            "radius": 0
+          },
+          {
+            "color": "#333333",
+            "offset": {
+              "width": 0,
+              "height": 11
+            },
+            "radius": 0
+          }
+        ]
+      }
+    ],
+    "connector": {
+      "default": {
+        "type": "quadratic",
+        "controlPoint": {
+          "above": {
+            "width": 0,
+            "height": 0.75
+          },
+          "below": {
+            "width": 0,
+            "height": 0.75
+          },
+          "horizontal": {
+            "width": 0,
+            "height": 0
+          }
+        },
+        "label": {
+          "position": {
+            "ratio": 0.5
+          },
+          "backgroundColor": "transparent",
+          "borderColor": "transparent",
+          "text": {
+            "color": "#4F4F4F",
+            "font": {
+              "size": 9,
+              "sizePx": 12,
+              "weight": "normal"
+            }
+          }
+        },
+        "line": {
+          "color": "#707070",
+          "width": 1
+        }
+      }
+    },
+    "link": {
+      "default": {
+        "line": {
+          "color": "red",
+          "lineStyle": "dashed",
+          "width": 1
+        },
+        "label": {
+          "position": {
+            "ratio": 0.5
+          },
+          "backgroundColor": "#FFFFFF",
+          "borderColor": "#FFFFFF",
+          "text": {
+            "color": "#4F4F4F",
+            "font": {
+              "size": 9,
+              "sizePx": 12,
+              "weight": "normal"
+            }
+          }
+        }
+      }
+    }
+  }
+}
